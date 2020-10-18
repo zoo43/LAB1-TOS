@@ -1,3 +1,2 @@
 # LAB1-TOS
-nuova riga
-seconda riga
+nuova rigaseconda riga
